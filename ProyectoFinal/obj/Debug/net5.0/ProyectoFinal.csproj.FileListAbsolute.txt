@@ -1,0 +1,16 @@
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\bin\Debug\net5.0\ProyectoFinal.exe
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\bin\Debug\net5.0\ProyectoFinal.deps.json
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\bin\Debug\net5.0\ProyectoFinal.runtimeconfig.json
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\bin\Debug\net5.0\ProyectoFinal.runtimeconfig.dev.json
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\bin\Debug\net5.0\ProyectoFinal.dll
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\bin\Debug\net5.0\ref\ProyectoFinal.dll
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\bin\Debug\net5.0\ProyectoFinal.pdb
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.dll
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\obj\Debug\net5.0\ref\ProyectoFinal.dll
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.pdb
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.genruntimeconfig.cache
